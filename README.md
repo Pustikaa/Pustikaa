@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pustika Pokharel 👋
 
-<!--
-**Pustikaa/Pustikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learning AI, Web Development & Open Source**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Connect with Me**  
+🇳🇵 Nepal  
+✉️ pustekapokharel@gmail.com  
+💼 https://www.linkedin.com/in/pustika-pokharel-873511249/ 
+/*🌐 [Portfolio](https://example.com)*/
+
+---
+
+🚀 **About Me**  
+🎓 BSc (Hons) in Computing @ The British College  
+💪 Building AI-powered and IoT solutions  
+📚 Currently learning Machine Learning & Backend Development
+
+---
+
+🏍️ **Hobbies**  
+- Travelling  
+- Photography  
+- Videography  
+- Horseriding  
+- Painting
